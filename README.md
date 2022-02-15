@@ -1,6 +1,6 @@
 # PCA-KMeans-Sign-Language
 
-Used Sign Language MNIST Dataset for experimental purposes. Ran K-Means to cluster different languages. Achieved 81% accuracy with 8000 clusters and 80% accuracy with 
+Used Sign Language MNIST Dataset for experimental purposes. Ran K-Means to cluster different symbols. Achieved 81% accuracy with 8000 clusters and 80% accuracy with 
 2500 clusters. 
 
 Standardized data, used PCA, and MiniBatch KMeans to quicken process and reduce issues from curse of dimensionality (euclidean distance becomes less useful in higher dimensions)
